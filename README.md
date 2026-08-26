@@ -1,6 +1,8 @@
-<h2 align="left">Dafni Milla</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF1493&background=00000000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
 
-###
+<h2 align="left">Dafni Milla</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DafniMilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -8,11 +10,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DafniMilla&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<h2 align="left">Tecnologias e Ferramentas</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,16 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-###
-
 <h2 align="left">Contato</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dafni-milla/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
